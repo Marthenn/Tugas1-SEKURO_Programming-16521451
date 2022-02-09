@@ -20,5 +20,6 @@ Percabangan independen dari master / main branch yang dapat jalan dengan commitn
    - Hanya dapat dilakukan merging antara dua branch pada satu waktu
 3. Pada menu _"Pull requests"_, konfirmasi merging branch
    - Merging dapat dilakukan secara otomatis bila tidak ada conflict
+   - Sebelum dimerge, dapat dilakukan pengeditan secara manual
    - Apabila terdapat merge conflict (baris yang sama diubah oleh dua atau lebih branch yang berbeda), diperlukan pengeditan secara manual sebelum merge
    - Branch yang telah dimerge boleh dihapus maupun tidak
