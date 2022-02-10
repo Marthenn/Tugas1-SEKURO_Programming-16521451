@@ -19,6 +19,9 @@ menambahkan file(s) ke staging area
 mengetahui status repo
 - `git commit`<br>
 melakukan commit
+   - Tambahkan parameter `-m <message>` untuk memberikan pesan commit
+   - Tambahkan parameter `-a` sebelum parameter `-m` untuk menambahkan file yang telah tertrack untuk dicommit
+   - Parameter `-a` dan `-m` dapat digabung menjadi `-am <message>`
 - `git config`<br>
 memasukkan konfigurasi ke dalam git
 - `git branch`<br>
